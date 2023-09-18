@@ -38,3 +38,5 @@ To run the QR Code Generator locally, you'll need the following installed on you
 
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
+   
+   Reference used in Meetup: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
